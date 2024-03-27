@@ -1,7 +1,8 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="./css/style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 	<header>
@@ -17,25 +18,16 @@
 					<li><a href="#">Cart</a></li>
 					<li><a href="#">Orders</a></li>
 					<li><a href="#">Contact Us</a></li>
-					<li><a href="#" class="userlogo"><img class="userlogo" alt="User" src="./icons/userlogo.png"></a>
+					<li><a href="#" class="userlogo"><img class="userlogo"
+							alt="User" src="./icons/userlogo.png"></a>
 				</ul>
 			</div>
 		</nav>
-	</header>	
+	</header>
 	
-	 <div class="slider-frame">
-            <div class="slide-images">
-                    <div class="img-container">
-                        <img src="./images/offer1.png">
-                    </div>
-                    <div class="img-container">
-                        <img src="./images/offer2.png">
-                    </div>
-                    <div class="img-container">
-                        <img src="./images/offer3.jpg">
-                    </div>
-            </div>
-        </div>
-
+	<section class="welcome">
+	<h1>Welcome to the project</h1>
+	</section>
+	
 </body>
 </html>
