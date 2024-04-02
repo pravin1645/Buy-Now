@@ -32,7 +32,6 @@ ul li ul.list{
 	position: absolute;
 	x-index: 999;
 	display: none;
-	height: auto;
 }
 
 ul li a:hover{
@@ -40,7 +39,7 @@ ul li a:hover{
 }
 
 ul li:hover ul.list{
-	height: auto;
+	
 	display: list-item;
 }
 .list{
@@ -99,10 +98,7 @@ ul li:hover ul.list{
 	background: aqua;
 	text-align: center;
 	height: 200px;
-	justify-content: center;
-	background-position: center center;
+	padding: 80px;
 	border-radius: 20px;
-	display: flex;
-	flex-direction: column;
 
 }
